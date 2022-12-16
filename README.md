@@ -23,3 +23,5 @@ cargo run
 
 ## Game Play
 The aim of the game is to defend the city by protecting it from missiles. The game consists of three levels. Each level increases the number of missiles falling on the city and the number of countermeasures the player can use. You can find a simple screenshot of the game below.
+
+[A simple gameplay from Youtube](https://youtu.be/5AkrQbv9G80)
